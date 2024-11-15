@@ -1,7 +1,7 @@
 **Karate Test for API**
 
 
-Get Test
+Get Tests
 
 
-Post Test
+Post Tests
